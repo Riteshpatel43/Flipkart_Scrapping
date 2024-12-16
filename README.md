@@ -3,6 +3,8 @@
 
 Thank you for visiting the Flipkart Webscraping Project repository. This project demonstrates how to scrape product data from Flipkart Scarping through pages and store the results in an Excel file for further analysis.
 
+## important : Chromedriver Link : https://googlechromelabs.github.io/chrome-for-testing/#stable
+
 ## About the Project 📄
 
 The goal of this project is to automate data collection from Flipkart product pages, utilizing Selenium for web scraping. Key features include:
